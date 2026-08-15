@@ -1,4 +1,4 @@
-# Ojas Kulkarni
+# Ojas Ashish Kulkarni
 
 CSE undergrad at **VIT Vellore** (2026–2030). I write Python, build learning agents from scratch, and study how information — and misinformation — moves through social networks.
 

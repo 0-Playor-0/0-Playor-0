@@ -9,7 +9,7 @@ CSE undergrad at **VIT Vellore** (2026–2030). I write Python, build learning a
 - **Social network analysis research.** Detecting bots and coordinated inauthentic behaviour in online social networks, as part of an open faculty research project.
 - **Reinforcement learning from first principles.** Hand-written replay buffers and training loops rather than library calls — see `Traffic-RL` below.
 - **Backend engineering.** Working through Django properly; FastAPI for smaller services.
-- **Working toward Google Summer of Code 2027.** Learning to work inside large existing codebases — reading unfamiliar code, filing useful issues, shipping small patches before big ones.
+- **Working toward Google Summer of Code 2028.** Learning to work inside large existing codebases — reading unfamiliar code, filing useful issues, shipping small patches before big ones.
 
 ## Selected work
 
